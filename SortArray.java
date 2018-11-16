@@ -63,7 +63,7 @@ public class SortArray {
 			}
 			
 		}
-			
+			j++;
 		}while(j<=st.size());	
 	}
 
