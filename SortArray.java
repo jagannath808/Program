@@ -21,6 +21,7 @@ public class SortArray {
 		List<Integer> lst =new ArrayList<Integer>();
 		for(Integer i:arr){
 			lst.add(i);	
+			System.out.print("hi");
 		}
 		
 	Collections.sort(lst);	
